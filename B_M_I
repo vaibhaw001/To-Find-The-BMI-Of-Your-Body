@@ -1,0 +1,8 @@
+#bodymassindex
+
+n=input("enter name -")
+a=float(input("enter weight in kg -"))
+b=float(input("enter height in m -"))
+c=(b**2)
+d=(a/c)
+print(n,"your bmi is-",d)
